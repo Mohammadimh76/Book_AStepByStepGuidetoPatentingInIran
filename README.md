@@ -3,7 +3,7 @@
 ---
 
 ## Introduction:
-This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.
+This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.<br>
 Team of Authors
 
 
