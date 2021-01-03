@@ -65,7 +65,7 @@ Prior to MPL, I finished my BSc in Computer Engineering at the Department of Com
 🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐀𝐥𝐢 𝐊𝐚𝐫𝐢𝐦𝐢" 👉 [alikarimi120.github.io](https://alikarimi120.github.io/)<br>
 📧 𝐄𝐦𝐚𝐢𝐥: alikarimi120@gmail.com 
 
-======================================================================================
+============================================================================
 
 ### Third: "Seyed Yahya Moradi"
 
