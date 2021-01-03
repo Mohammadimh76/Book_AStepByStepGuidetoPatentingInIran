@@ -12,7 +12,7 @@ Team of Authors
 |-----------|--------------------|
 |<p><img src="https://mohammadimh76.github.io/Book_1.jpeg"></p>|<p><img src="https://mohammadimh76.github.io/Book_1_b.jpeg"></p>|
 |  <b>Book Name</b>   |   A Step-By-Step Guide to Patenting in Iran  |
-| <b>Authors</b>    |   <b>M.H.Mohammadi</b>, A.Karimi, S.Y.Moradi|
+| <b>Authors</b>    |   M.H.Mohammadi, A.Karimi, S.Y.Moradi|
 | <b>language</b>    |  English   |
 | <b>Printed in the</b>    |  IRAN   |
 | <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
