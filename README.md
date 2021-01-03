@@ -81,7 +81,7 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 - Causal Inference; Big Data; Unsupervised & Online learning; Expert System<br>
 - Chaos and Fractal Theory<br>
 
-🌐 Personal Page "Seyed Yahya Moradi" 👉 [symoradi.website2.me](http://symoradi.website2.me/)<a  target="_blank"><br>
+🌐 Personal Page "Seyed Yahya Moradi" 👉 [symoradi.website2.me](http://symoradi.website2.me/)<br>
 📧 𝐄𝐦𝐚𝐢𝐥: s.yahyamoradi@yahoo.com 
 
 ---
@@ -90,7 +90,6 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/blob/main/Demo_E-Book/Demo_E-Book.pdf)
-
 
 
 
