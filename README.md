@@ -12,7 +12,7 @@ Team of Authors
 |-----------|--------------------|
 |<p><img src="https://mohammadimh76.github.io/Book_1.jpeg"></p>|<p><img src="https://mohammadimh76.github.io/Book_1_b.jpeg"></p>|
 |  <b>Book Name</b>   |   A Step-By-Step Guide to Patenting in Iran  |
-| <b>Authors</b>    |   <b><u>M.H.Mohammadi</u></b>, [A.Karimi](https://alikarimi120.github.io/), [S.Y.Moradi](http://symoradi.website2.me/)  |
+| <b>Authors</b>    |   <b><u>M.H.Mohammadi</u></b>, A.Karimi, S.Y.Moradi|
 | <b>language</b>    |  English   |
 | <b>Printed in the</b>    |  IRAN   |
 | <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
@@ -50,7 +50,18 @@ Innovation is the use of new ideas drawn from creativity. It is the implementati
 
 ---
 
-## Other Authors
+## Authors
+
+### The First: "Mohammad Hossein Mohammadi"
+
+Iam currently a Final-year BS.c student at the Department of Computer Engineering, Islamic Azad University, Najafabad Branch (IAUN) (Rank in CWUR) where I am a member of the Bioinformatics Laboratory (BL), advised by Prof. Mohammad Naderi Dehkordi. my research involves machine vision, deep learning, and neural networks. where I will complete my thesis on Accurate and Early Identification of Diabetes and it's Affecting Factors.
+
+Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Highschool, in September 2015. I tried to use my Diploma to build a solid bedrock for my future research. So in addition to taking many optional bachelor-level courses on math and computer science. I spent 6 months as an intern Programmer at the "CoTech" in Isfahan.
+
+🌐 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐚𝐠𝐞 "𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐨𝐬𝐬𝐞𝐢𝐧 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝𝐢" 👉 [mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
+📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
+
+============================================================================
 
 ### The Second: "Ali Karimi"
 
