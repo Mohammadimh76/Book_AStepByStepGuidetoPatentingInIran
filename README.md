@@ -42,10 +42,10 @@ Team of Authors
 |     | 2-13- Different Types of Notice and Methods of Responding to them   |
 |     | 2-14- Final Conclusion   |
 
-## Chapter (1)
+## Chapter (1) - Applied methods of ideation in inventions
 There have been different concepts and meanings for the definition of “Creativity” throughout history. For instance, Torrance considers creativity a form of problem solving and defines creative thinking as a process of sensing problems or gaps in information, formulating hypotheses about resolving problems and deficiencies, evaluating, testing, revising and retesting hypotheses, and conveying the results. Rajaei regards creativity as a mental competency in generating novel ideas and introduces conjecture as the driving force behind creativity and sciences. In general, creativity stems from the fountain of human originality, consciousness, and unconsciousness. Despite the popular belief that places creativity at the heart of an idea and deems it valuable in culture development and localization of economic and human needs satisfaction, its essence is entirely captured by an ability to re-conceptualize and generate new ideas. Like other scientific phenomena, creativity has a unique definition and is associated with such parameters as cognitive and socio-environmental processes, individual characteristics, ingenuity, and psychological disorders. In fact, creative thinking occurs when people cease to view their surroundings from previously-adopted perspectives and relinquish previously-held assumptions. Creativity requires the simultaneous presence of a number of traits, e.g. intelligence, tenacity, unconventionality, and the ability to think in a particular manner. Finally, creativity emerges intrinsically without any preconceptions.
 
-## Chapter (2)
+## Chapter (2) - INVENTIONS
 Innovation is the use of new ideas drawn from creativity. It is the implementation of creative ideas delivered as new products or services. Innovation differs from ideation and invention; invention means the “creation of a new product”, whereas innovation transcends invention and is defined as the “introduction of a recent product”, which co-occurs with creativity and supply.
 
 ---
