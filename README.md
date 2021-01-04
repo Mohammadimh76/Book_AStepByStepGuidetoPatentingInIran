@@ -8,7 +8,7 @@ Team of Authors
 
 
 
-| Front_BookCover  | Back_BookCover  |
+| Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |<p><img src="https://mohammadimh76.github.io/Book_1.jpeg"></p>|<p><img src="https://mohammadimh76.github.io/Book_1_b.jpeg"></p>|
 |  <b>Book Name</b>   |   A Step-By-Step Guide to Patenting in Iran  |
