@@ -2,7 +2,7 @@
 
 ---
 
-## Introduction:
+## 〽️Introduction:
 This book aims to acquaint faculty and university students, and all the researchers and inventors, interested in registering their designs, with the patenting process in Iran. For this purpose, different chapters intend to convey scientific and applied concepts vividly and serve as a tutorial for researchers. The main concern of this title is to explicitly express everything a researcher is required to know about the patenting process in Iran. We are proud to have taken a step toward creativity and research development for aficionados.<br>
 Team of Authors
 
@@ -22,7 +22,7 @@ Team of Authors
 
 ---
 
-## Contents:
+## 🚩Table of Contents
 | Chapter 1  | Chapter 2  |
 |-----------|--------------------|
 |  Preface   |     |
@@ -107,9 +107,18 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 ---
 ---
 
+## Demo
+
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/blob/main/Demo_E-Book/Demo_E-Book.pdf)
 
+---
+
+## 🛒Buy
+
+| Amazon (🔹Coming Soon) | Taaghche  |
+|-----------|--------------------|
+| <p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p> | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/88117/A-STEP-BY-STEP-GUIDE-TO-PATENTING-IN-IRAN) |
 
 
