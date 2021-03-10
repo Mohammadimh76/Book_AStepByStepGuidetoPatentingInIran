@@ -117,8 +117,8 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
 ## 🛒Buy
 
-| Amazon (🔹Coming Soon) | Taaghche  |
+| Amazon (Kindle Edition) | Taaghche  |
 |-----------|--------------------|
-| <p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p> | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/88117/A-STEP-BY-STEP-GUIDE-TO-PATENTING-IN-IRAN) |
+| [<p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p>] (https://www.amazon.com/dp/B08YKDFC4Q/ref=sr_1_2?dchild=1&keywords=patent+iran&qid=1615387955&sr=8-2) | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/88117/A-STEP-BY-STEP-GUIDE-TO-PATENTING-IN-IRAN) |
 
 
