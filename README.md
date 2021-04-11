@@ -15,7 +15,7 @@ Team of Authors
 | <b>Authors</b>    |   M.H.Mohammadi, A.Karimi, S.Y.Moradi|
 | <b>language</b>    |  English   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
+| <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Nov,2020  |
 | <b>Print Length</b>    |  70   |
 | <b>ISBN</b>    |  978-600-356-922-8   |
