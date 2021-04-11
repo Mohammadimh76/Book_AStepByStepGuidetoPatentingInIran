@@ -18,7 +18,7 @@ Team of Authors
 | <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Nov,2020  |
 | <b>Print Length</b>    |  70   |
-| <b>ISBN</b>    |  978-600-356-922-8   |
+| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-600-356-922-8](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7404993&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)   |
 
 ---
 
